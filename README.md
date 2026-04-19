@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
-Multi-platform sentiment analysis of **컴포즈커피 (Compose Coffee)**, a Korean coffee chain,
+Multi-platform sentiment analysis of [**컴포즈커피 (Compose Coffee)**](https://composecoffee.com/), a Korean coffee chain,
 using data from Naver Blog, YouTube, TikTok, and Instagram. The project compares how brand
 perception differs across platforms and between Korean- and English-language audiences.
 
